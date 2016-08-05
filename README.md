@@ -6,4 +6,5 @@ Nice plotting distributions of two datasets (Logs)
 For creating images for your reports with reservoir/non-reservoir properties 
 
 ###Example:
-![Example](doc/example.png).
+
+![Example](fig1.png).
